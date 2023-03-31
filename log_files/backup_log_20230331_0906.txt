@@ -4,14 +4,14 @@ expand-service-portfolio-with-baas-for-public-cloud.pdf is a new backed up file.
 data-protection-trends-public-sector-executive-brief.pdf is a new backed up file.
 agile-data-protection-for-microsoft-365.pdf is a new backed up file.
 
-Files Deleted since last backup in folder /home/slshimizu92/code/SLShimizu/VEEAM_DevelopmentQA/source/WhitePapers: 
+Files Deleted since last backup in folder /home/slshimizu92/code/SLShimizu/DevelopmentQA/source/WhitePapers: 
 None
 
 ThankYou.txt is a new backed up file.
-veeam_dpt_executive_brief_2023_financial_services.pdf is a new backed up file.
+dpt_executive_brief_2023_financial_services.pdf is a new backed up file.
 Internal Development in QA (SDET) Team_tesk task.pdf is a new backed up file.
 
-Files Deleted since last backup in folder /home/slshimizu92/code/SLShimizu/VEEAM_DevelopmentQA/source: 
+Files Deleted since last backup in folder /home/slshimizu92/code/SLShimizu/DevelopmentQA/source: 
 None
 
 
@@ -28,14 +28,14 @@ expand-service-portfolio-with-baas-for-public-cloud.pdf has NOT been updated sin
 data-protection-trends-public-sector-executive-brief.pdf has NOT been updated since last backup.
 agile-data-protection-for-microsoft-365.pdf has NOT been updated since last backup.
 
-Files Deleted since last backup in folder /home/slshimizu92/code/SLShimizu/VEEAM_DevelopmentQA/source/WhitePapers: 
+Files Deleted since last backup in folder /home/slshimizu92/code/SLShimizu/DevelopmentQA/source/WhitePapers: 
 None
 
-veeam_dpt_executive_brief_2023_financial_services.pdf has NOT been updated since last backup.
+dpt_executive_brief_2023_financial_services.pdf has NOT been updated since last backup.
 Internal Development in QA (SDET) Team_tesk task.pdf has NOT been updated since last backup.
 ThankYou_HaveAGreatDay.txt is a new backed up file.
 
-Files Deleted since last backup in folder /home/slshimizu92/code/SLShimizu/VEEAM_DevelopmentQA/source: 
+Files Deleted since last backup in folder /home/slshimizu92/code/SLShimizu/DevelopmentQA/source: 
 /ThankYou.txt
 
 Backup Finished at 2023-03-31_09:07:40
