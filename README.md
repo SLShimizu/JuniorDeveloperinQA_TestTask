@@ -1,6 +1,12 @@
 # Junior Developer in QA: Test Task
 
-This is **Sarah Shimizu's** technical task for the **Junior Developer in QA** for Veeam Software.  The program, **backup.py**, completes the following prompt using Python:
+This is **S. Shimizu's** technical task for the **Junior Developer in QA**.  
+
+Call the program **backup.py**, in the command line interface by using the following format:
+python backup.py /path/to/source/folder /path/to/replica/folder /path/to/log_file_folder {synchronization_interval_in_sec}
+ex: * python backup.py /home/code/DevelopmentQA/source /home/code/DevelopmentQA/replica /home/code/DevelopmentQA/log_files 30 *
+
+The program, **backup.py**, completes the following prompt using Python:
 
 *Please implement a program that synchronizes two folders: source and replica. The program should maintain a full, identical copy of source folder at replica folder.*
 
